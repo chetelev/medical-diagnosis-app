@@ -1,0 +1,1001 @@
+Age,Gender,Symptom_1,Symptom_2,Medical_History,Test_Result,Diagnosis
+26,F,Present,Absent,Hypertension,Positive,High cholesterol
+25,F,Absent,Absent,Hypertension,Negative,Arthritis
+56,F,Present,Absent,Diabetes,Negative,High cholesterol
+42,M,Present,Present,Hypertension,Positive,Heart disease
+34,F,Present,Present,Hypertension,Negative,Arthritis
+23,M,Present,Absent,Asthma,Negative,Heart disease
+51,F,Present,Absent,Asthma,Positive,Arthritis
+33,M,Absent,Present,Hypertension,Positive,High cholesterol
+19,F,Present,Present,Hypertension,Negative,Heart disease
+44,M,Absent,Absent,Asthma,Negative,High cholesterol
+49,M,Present,Present,Asthma,Positive,Arthritis
+51,F,Present,Absent,Diabetes,Positive,Arthritis
+79,M,Absent,Absent,Diabetes,Negative,Heart disease
+16,M,Absent,Present,Hypertension,Positive,Heart disease
+4,M,Present,Present,Diabetes,Negative,Arthritis
+41,M,Present,Present,Hypertension,Positive,High cholesterol
+35,F,Absent,Present,Asthma,Positive,Heart disease
+90,F,Present,Present,Asthma,Positive,Heart disease
+55,F,Present,Present,Asthma,Negative,High cholesterol
+30,F,Present,Present,Asthma,Positive,Arthritis
+81,F,Present,Present,Diabetes,Positive,Arthritis
+20,M,Absent,Absent,Diabetes,Positive,Heart disease
+61,M,Absent,Absent,Asthma,Negative,High cholesterol
+23,M,Present,Absent,Hypertension,Negative,Heart disease
+88,F,Present,Present,Asthma,Negative,Heart disease
+64,M,Present,Absent,Diabetes,Negative,Arthritis
+8,F,Present,Absent,Diabetes,Negative,Heart disease
+53,M,Absent,Present,Hypertension,Positive,High cholesterol
+21,F,Present,Present,Asthma,Negative,Arthritis
+49,M,Present,Present,Asthma,Positive,Heart disease
+64,F,Absent,Absent,Diabetes,Negative,Arthritis
+24,M,Absent,Absent,Asthma,Positive,Heart disease
+7,M,Present,Absent,Hypertension,Positive,Arthritis
+61,M,Absent,Absent,Asthma,Negative,Arthritis
+8,M,Present,Present,Hypertension,Positive,Arthritis
+94,F,Present,Present,Diabetes,Positive,High cholesterol
+56,F,Absent,Absent,Hypertension,Negative,High cholesterol
+51,F,Absent,Present,Diabetes,Negative,Arthritis
+70,F,Absent,Absent,Diabetes,Negative,Heart disease
+74,M,Present,Present,Asthma,Negative,Heart disease
+69,F,Absent,Absent,Asthma,Positive,High cholesterol
+89,F,Absent,Absent,Diabetes,Positive,Heart disease
+32,M,Absent,Present,Diabetes,Negative,High cholesterol
+45,M,Absent,Absent,Diabetes,Positive,Arthritis
+21,F,Present,Absent,Hypertension,Negative,Arthritis
+29,F,Present,Present,Hypertension,Negative,High cholesterol
+91,M,Absent,Absent,Hypertension,Positive,Arthritis
+92,M,Present,Present,Hypertension,Negative,Heart disease
+54,F,Present,Present,Asthma,Negative,Heart disease
+38,M,Present,Absent,Diabetes,Negative,Arthritis
+67,M,Present,Absent,Hypertension,Positive,High cholesterol
+9,M,Absent,Absent,Asthma,Negative,High cholesterol
+34,M,Absent,Absent,Hypertension,Negative,Heart disease
+90,F,Present,Present,Asthma,Negative,Arthritis
+63,F,Absent,Absent,Asthma,Negative,Arthritis
+33,F,Absent,Absent,Hypertension,Negative,High cholesterol
+29,M,Absent,Absent,Diabetes,Negative,High cholesterol
+36,M,Present,Absent,Hypertension,Positive,Heart disease
+54,M,Present,Absent,Hypertension,Positive,Arthritis
+96,F,Absent,Present,Asthma,Negative,Heart disease
+81,M,Present,Present,Diabetes,Negative,High cholesterol
+91,F,Absent,Present,Diabetes,Positive,Heart disease
+4,F,Present,Absent,Diabetes,Negative,Heart disease
+1,M,Absent,Absent,Asthma,Negative,Arthritis
+21,M,Present,Present,Diabetes,Negative,Heart disease
+41,M,Absent,Absent,Diabetes,Negative,Arthritis
+78,M,Absent,Absent,Diabetes,Positive,Arthritis
+64,F,Absent,Absent,Asthma,Positive,High cholesterol
+98,F,Absent,Present,Asthma,Positive,Arthritis
+49,F,Absent,Absent,Asthma,Positive,Arthritis
+19,F,Absent,Absent,Hypertension,Negative,Heart disease
+72,M,Present,Absent,Hypertension,Negative,High cholesterol
+40,M,Present,Present,Hypertension,Positive,Heart disease
+48,F,Present,Absent,Asthma,Positive,High cholesterol
+21,F,Present,Present,Asthma,Positive,High cholesterol
+6,F,Present,Absent,Asthma,Negative,Arthritis
+17,M,Present,Absent,Hypertension,Positive,Heart disease
+2,F,Absent,Present,Diabetes,Negative,Arthritis
+18,M,Present,Absent,Asthma,Negative,Heart disease
+75,M,Absent,Absent,Diabetes,Positive,Heart disease
+36,M,Present,Present,Asthma,Positive,Arthritis
+88,F,Present,Absent,Asthma,Negative,High cholesterol
+1,M,Present,Present,Diabetes,Positive,High cholesterol
+41,F,Absent,Absent,Asthma,Negative,Arthritis
+15,F,Absent,Absent,Hypertension,Negative,Heart disease
+57,F,Present,Present,Hypertension,Negative,Arthritis
+53,M,Absent,Absent,Diabetes,Negative,Arthritis
+11,M,Present,Absent,Asthma,Negative,Heart disease
+1,M,Present,Absent,Hypertension,Negative,High cholesterol
+15,M,Present,Present,Hypertension,Negative,Heart disease
+38,F,Present,Present,Diabetes,Negative,High cholesterol
+91,F,Present,Present,Hypertension,Positive,High cholesterol
+85,F,Absent,Absent,Asthma,Positive,Arthritis
+58,M,Present,Absent,Hypertension,Negative,High cholesterol
+14,F,Present,Absent,Asthma,Positive,Arthritis
+85,M,Absent,Present,Diabetes,Positive,Heart disease
+50,F,Absent,Absent,Diabetes,Positive,High cholesterol
+97,F,Absent,Present,Diabetes,Positive,High cholesterol
+56,M,Absent,Present,Diabetes,Positive,Arthritis
+72,M,Absent,Present,Hypertension,Positive,High cholesterol
+22,F,Present,Present,Diabetes,Negative,High cholesterol
+65,M,Present,Absent,Diabetes,Negative,High cholesterol
+21,F,Absent,Absent,Diabetes,Negative,Heart disease
+6,M,Absent,Absent,Asthma,Positive,Arthritis
+37,M,Absent,Present,Asthma,Positive,Heart disease
+43,M,Present,Present,Hypertension,Positive,High cholesterol
+75,F,Present,Absent,Asthma,Positive,High cholesterol
+97,M,Absent,Absent,Hypertension,Positive,High cholesterol
+65,F,Absent,Absent,Hypertension,Negative,Arthritis
+64,M,Present,Absent,Hypertension,Negative,Heart disease
+89,M,Absent,Absent,Diabetes,Positive,Arthritis
+6,M,Absent,Present,Diabetes,Positive,Arthritis
+93,F,Absent,Absent,Hypertension,Negative,High cholesterol
+40,M,Present,Absent,Hypertension,Positive,Heart disease
+41,F,Absent,Absent,Hypertension,Negative,High cholesterol
+84,M,Absent,Absent,Asthma,Positive,High cholesterol
+76,M,Absent,Absent,Diabetes,Positive,Arthritis
+94,F,Present,Present,Hypertension,Negative,Arthritis
+84,M,Present,Absent,Asthma,Negative,High cholesterol
+89,F,Present,Present,Hypertension,Positive,Arthritis
+75,M,Present,Absent,Asthma,Positive,Heart disease
+68,F,Absent,Present,Hypertension,Positive,Heart disease
+33,F,Present,Present,Diabetes,Positive,Heart disease
+89,F,Absent,Present,Asthma,Positive,Heart disease
+60,M,Present,Present,Diabetes,Positive,Arthritis
+48,F,Absent,Present,Hypertension,Positive,High cholesterol
+17,F,Absent,Present,Asthma,Positive,Heart disease
+43,F,Present,Present,Asthma,Positive,High cholesterol
+61,M,Absent,Present,Hypertension,Positive,High cholesterol
+30,M,Present,Present,Asthma,Negative,High cholesterol
+8,F,Present,Absent,Hypertension,Negative,High cholesterol
+50,F,Present,Absent,Asthma,Negative,Arthritis
+60,M,Absent,Present,Asthma,Positive,Arthritis
+24,F,Absent,Absent,Asthma,Negative,Arthritis
+71,M,Absent,Absent,Asthma,Positive,High cholesterol
+33,M,Absent,Absent,Diabetes,Negative,Heart disease
+75,F,Present,Absent,Hypertension,Positive,High cholesterol
+74,M,Present,Absent,Diabetes,Positive,High cholesterol
+92,M,Present,Absent,Asthma,Positive,Heart disease
+67,F,Absent,Absent,Diabetes,Positive,High cholesterol
+7,F,Present,Present,Hypertension,Positive,Heart disease
+59,M,Present,Absent,Asthma,Negative,High cholesterol
+66,M,Absent,Absent,Asthma,Positive,High cholesterol
+5,F,Present,Present,Hypertension,Positive,Heart disease
+24,F,Present,Absent,Hypertension,Positive,High cholesterol
+39,F,Present,Present,Hypertension,Negative,Arthritis
+14,F,Present,Absent,Hypertension,Negative,Arthritis
+66,M,Present,Absent,Asthma,Positive,High cholesterol
+46,M,Absent,Present,Hypertension,Negative,High cholesterol
+99,M,Absent,Absent,Diabetes,Positive,High cholesterol
+10,M,Absent,Absent,Hypertension,Positive,Heart disease
+4,M,Absent,Absent,Hypertension,Negative,Heart disease
+23,M,Absent,Present,Asthma,Negative,High cholesterol
+45,M,Absent,Absent,Hypertension,Positive,Heart disease
+75,F,Present,Absent,Diabetes,Negative,Arthritis
+5,M,Absent,Absent,Diabetes,Positive,Heart disease
+82,M,Present,Absent,Diabetes,Positive,Heart disease
+6,F,Present,Absent,Asthma,Positive,Arthritis
+17,F,Present,Present,Hypertension,Negative,Arthritis
+54,F,Absent,Absent,Diabetes,Negative,Heart disease
+14,M,Present,Present,Diabetes,Negative,Arthritis
+32,M,Absent,Present,Asthma,Negative,Heart disease
+28,F,Absent,Absent,Hypertension,Negative,Arthritis
+30,F,Absent,Present,Diabetes,Negative,Heart disease
+61,M,Absent,Present,Hypertension,Negative,Heart disease
+97,M,Present,Absent,Hypertension,Negative,High cholesterol
+89,F,Present,Absent,Asthma,Negative,Arthritis
+52,M,Present,Present,Asthma,Negative,Heart disease
+31,F,Absent,Absent,Diabetes,Negative,Heart disease
+58,F,Absent,Present,Diabetes,Negative,Heart disease
+90,F,Absent,Absent,Diabetes,Positive,Heart disease
+65,F,Present,Absent,Asthma,Negative,Arthritis
+7,F,Present,Absent,Diabetes,Negative,Heart disease
+76,F,Absent,Present,Diabetes,Positive,Arthritis
+52,F,Present,Absent,Hypertension,Positive,Heart disease
+53,M,Absent,Present,Asthma,Negative,Arthritis
+78,F,Present,Absent,Diabetes,Positive,Arthritis
+12,F,Present,Present,Asthma,Positive,High cholesterol
+88,F,Absent,Absent,Asthma,Negative,High cholesterol
+72,M,Absent,Absent,Asthma,Negative,Arthritis
+68,M,Absent,Present,Asthma,Positive,Arthritis
+94,F,Absent,Present,Asthma,Positive,Arthritis
+14,F,Absent,Absent,Asthma,Positive,High cholesterol
+2,M,Present,Absent,Hypertension,Positive,High cholesterol
+96,F,Present,Absent,Diabetes,Negative,Heart disease
+21,F,Present,Absent,Diabetes,Negative,Heart disease
+83,F,Absent,Absent,Asthma,Positive,Arthritis
+1,F,Present,Present,Diabetes,Positive,Heart disease
+95,F,Present,Present,Hypertension,Negative,Heart disease
+46,F,Present,Absent,Diabetes,Negative,Arthritis
+45,M,Present,Present,Diabetes,Positive,Arthritis
+94,M,Absent,Present,Asthma,Negative,High cholesterol
+87,M,Absent,Absent,Hypertension,Negative,High cholesterol
+86,F,Absent,Present,Hypertension,Negative,Arthritis
+72,F,Absent,Present,Diabetes,Positive,High cholesterol
+10,F,Absent,Present,Hypertension,Positive,High cholesterol
+1,F,Absent,Absent,Asthma,Negative,High cholesterol
+42,F,Absent,Present,Hypertension,Positive,Arthritis
+15,F,Absent,Absent,Diabetes,Negative,Heart disease
+9,F,Present,Present,Asthma,Positive,Heart disease
+79,F,Present,Absent,Hypertension,Positive,High cholesterol
+66,F,Absent,Absent,Hypertension,Positive,Arthritis
+13,M,Present,Absent,Asthma,Negative,Arthritis
+37,F,Present,Absent,Asthma,Negative,High cholesterol
+89,M,Present,Absent,Asthma,Positive,Arthritis
+30,F,Present,Absent,Diabetes,Positive,Arthritis
+11,M,Absent,Absent,Hypertension,Negative,Heart disease
+38,F,Absent,Absent,Hypertension,Negative,Heart disease
+4,F,Present,Present,Asthma,Positive,High cholesterol
+49,F,Absent,Present,Diabetes,Positive,Arthritis
+75,M,Absent,Present,Diabetes,Positive,High cholesterol
+44,F,Present,Absent,Asthma,Negative,High cholesterol
+61,F,Absent,Absent,Asthma,Positive,High cholesterol
+67,M,Present,Present,Diabetes,Negative,Heart disease
+7,F,Present,Present,Hypertension,Negative,Arthritis
+47,M,Absent,Present,Hypertension,Positive,High cholesterol
+73,F,Absent,Absent,Hypertension,Negative,Heart disease
+86,F,Present,Absent,Asthma,Negative,Heart disease
+25,F,Absent,Present,Asthma,Positive,Heart disease
+80,F,Present,Absent,Hypertension,Negative,Arthritis
+34,M,Absent,Present,Hypertension,Positive,Arthritis
+85,M,Present,Absent,Hypertension,Positive,Heart disease
+79,F,Absent,Present,Diabetes,Positive,Arthritis
+64,F,Absent,Present,Diabetes,Positive,Heart disease
+23,F,Present,Absent,Hypertension,Negative,High cholesterol
+11,F,Absent,Absent,Diabetes,Positive,Heart disease
+99,F,Present,Absent,Diabetes,Negative,High cholesterol
+7,F,Absent,Present,Hypertension,Positive,Arthritis
+25,M,Present,Absent,Asthma,Positive,Heart disease
+12,F,Absent,Absent,Hypertension,Positive,Arthritis
+7,M,Present,Present,Hypertension,Positive,High cholesterol
+88,F,Present,Present,Diabetes,Negative,High cholesterol
+73,F,Present,Present,Hypertension,Negative,Heart disease
+72,F,Absent,Absent,Hypertension,Negative,Arthritis
+27,F,Absent,Present,Asthma,Negative,Heart disease
+32,F,Present,Present,Diabetes,Positive,High cholesterol
+18,M,Absent,Present,Asthma,Negative,High cholesterol
+23,M,Present,Absent,Diabetes,Positive,Heart disease
+73,M,Absent,Present,Asthma,Negative,Heart disease
+68,F,Absent,Absent,Asthma,Negative,Heart disease
+29,M,Present,Absent,Diabetes,Negative,Heart disease
+82,F,Present,Present,Hypertension,Negative,High cholesterol
+90,M,Absent,Absent,Diabetes,Positive,Arthritis
+77,F,Present,Absent,Asthma,Positive,Arthritis
+2,F,Absent,Absent,Asthma,Negative,Heart disease
+97,M,Present,Absent,Asthma,Negative,High cholesterol
+97,F,Absent,Absent,Diabetes,Negative,High cholesterol
+32,F,Present,Present,Hypertension,Negative,High cholesterol
+59,M,Absent,Absent,Hypertension,Positive,Heart disease
+60,M,Absent,Present,Asthma,Negative,Heart disease
+77,F,Present,Present,Hypertension,Positive,Heart disease
+70,M,Absent,Present,Asthma,Positive,Arthritis
+37,M,Absent,Absent,Diabetes,Negative,Arthritis
+46,M,Absent,Absent,Diabetes,Positive,Arthritis
+34,M,Present,Absent,Diabetes,Negative,High cholesterol
+15,M,Present,Present,Diabetes,Positive,High cholesterol
+39,F,Absent,Present,Asthma,Positive,High cholesterol
+12,M,Present,Absent,Diabetes,Positive,Heart disease
+5,F,Present,Present,Diabetes,Negative,Arthritis
+87,M,Absent,Absent,Diabetes,Positive,Heart disease
+12,F,Absent,Absent,Diabetes,Negative,Heart disease
+48,M,Present,Present,Diabetes,Negative,Heart disease
+94,M,Present,Present,Hypertension,Negative,High cholesterol
+76,M,Absent,Absent,Diabetes,Negative,Arthritis
+29,F,Absent,Absent,Hypertension,Positive,Heart disease
+99,M,Present,Present,Hypertension,Positive,High cholesterol
+46,F,Absent,Absent,Asthma,Positive,Arthritis
+8,M,Present,Present,Hypertension,Positive,Arthritis
+60,F,Present,Absent,Diabetes,Negative,Arthritis
+79,M,Present,Absent,Asthma,Negative,High cholesterol
+67,M,Absent,Present,Asthma,Positive,Heart disease
+41,M,Present,Absent,Diabetes,Positive,Arthritis
+41,M,Present,Absent,Asthma,Positive,High cholesterol
+29,M,Present,Present,Diabetes,Positive,Heart disease
+23,M,Absent,Absent,Asthma,Positive,Heart disease
+14,M,Present,Absent,Diabetes,Positive,Heart disease
+20,M,Present,Present,Asthma,Negative,Arthritis
+13,F,Present,Present,Diabetes,Positive,High cholesterol
+23,M,Absent,Present,Asthma,Positive,Arthritis
+65,F,Absent,Present,Diabetes,Positive,Arthritis
+47,F,Absent,Present,Asthma,Positive,High cholesterol
+97,M,Present,Absent,Hypertension,Negative,High cholesterol
+45,F,Absent,Present,Asthma,Positive,Heart disease
+70,M,Present,Absent,Asthma,Negative,Heart disease
+35,M,Present,Present,Hypertension,Negative,High cholesterol
+90,M,Absent,Absent,Asthma,Positive,High cholesterol
+17,M,Absent,Present,Asthma,Negative,High cholesterol
+64,M,Present,Absent,Hypertension,Positive,High cholesterol
+36,M,Present,Absent,Hypertension,Positive,Heart disease
+42,F,Present,Present,Hypertension,Positive,Arthritis
+31,M,Present,Present,Hypertension,Positive,High cholesterol
+14,F,Present,Absent,Asthma,Negative,Heart disease
+61,F,Present,Present,Asthma,Negative,Arthritis
+71,M,Absent,Absent,Diabetes,Positive,Heart disease
+23,M,Absent,Present,Asthma,Positive,High cholesterol
+59,M,Absent,Present,Hypertension,Positive,Heart disease
+72,M,Present,Absent,Diabetes,Negative,Arthritis
+2,M,Absent,Absent,Diabetes,Positive,Heart disease
+91,M,Absent,Absent,Asthma,Positive,Heart disease
+1,F,Present,Absent,Hypertension,Positive,Arthritis
+84,F,Absent,Absent,Diabetes,Positive,Heart disease
+59,M,Present,Present,Hypertension,Negative,High cholesterol
+76,M,Absent,Present,Diabetes,Positive,Heart disease
+77,F,Absent,Absent,Diabetes,Positive,Arthritis
+32,M,Absent,Absent,Diabetes,Positive,Heart disease
+2,M,Present,Present,Asthma,Positive,High cholesterol
+24,M,Present,Absent,Diabetes,Positive,High cholesterol
+34,F,Present,Present,Asthma,Positive,Arthritis
+71,M,Absent,Present,Hypertension,Negative,Arthritis
+44,F,Absent,Present,Hypertension,Negative,Heart disease
+7,M,Absent,Present,Hypertension,Positive,Heart disease
+99,M,Present,Absent,Hypertension,Negative,Arthritis
+69,M,Absent,Absent,Diabetes,Negative,Arthritis
+14,F,Present,Absent,Hypertension,Positive,Arthritis
+99,M,Absent,Present,Hypertension,Positive,Arthritis
+50,M,Present,Present,Asthma,Positive,Heart disease
+27,F,Present,Present,Hypertension,Positive,Heart disease
+73,F,Present,Absent,Hypertension,Positive,High cholesterol
+26,M,Absent,Present,Diabetes,Negative,Heart disease
+33,F,Absent,Absent,Hypertension,Negative,Heart disease
+8,M,Present,Present,Hypertension,Positive,Arthritis
+10,F,Present,Present,Diabetes,Negative,Heart disease
+24,M,Present,Absent,Asthma,Positive,Arthritis
+16,F,Absent,Present,Hypertension,Positive,Arthritis
+4,F,Present,Present,Diabetes,Negative,Arthritis
+57,M,Absent,Absent,Asthma,Negative,Arthritis
+14,M,Absent,Present,Diabetes,Positive,Heart disease
+79,M,Absent,Absent,Diabetes,Negative,Arthritis
+61,F,Absent,Present,Hypertension,Positive,High cholesterol
+92,M,Present,Present,Hypertension,Positive,Arthritis
+75,M,Absent,Present,Hypertension,Positive,High cholesterol
+48,F,Absent,Absent,Asthma,Negative,High cholesterol
+52,M,Present,Present,Diabetes,Negative,Arthritis
+9,F,Present,Absent,Asthma,Negative,High cholesterol
+1,M,Present,Absent,Asthma,Positive,High cholesterol
+87,M,Absent,Present,Asthma,Negative,High cholesterol
+70,M,Absent,Present,Hypertension,Positive,Heart disease
+31,F,Present,Absent,Diabetes,Negative,High cholesterol
+53,F,Absent,Present,Diabetes,Positive,Arthritis
+23,M,Present,Present,Diabetes,Negative,Heart disease
+28,F,Present,Present,Asthma,Negative,Heart disease
+54,M,Present,Present,Asthma,Positive,High cholesterol
+76,M,Present,Absent,Asthma,Negative,High cholesterol
+11,M,Absent,Present,Hypertension,Positive,Heart disease
+43,F,Absent,Present,Hypertension,Negative,Heart disease
+54,M,Absent,Present,Hypertension,Positive,High cholesterol
+38,M,Absent,Absent,Diabetes,Positive,Heart disease
+17,F,Present,Present,Diabetes,Negative,Heart disease
+88,F,Present,Present,Hypertension,Positive,Heart disease
+92,F,Absent,Present,Hypertension,Positive,Heart disease
+45,F,Present,Present,Hypertension,Positive,Arthritis
+92,F,Present,Absent,Diabetes,Positive,Arthritis
+10,M,Absent,Absent,Hypertension,Positive,Arthritis
+1,M,Present,Present,Asthma,Positive,Arthritis
+14,F,Absent,Absent,Diabetes,Positive,Heart disease
+30,F,Present,Absent,Asthma,Negative,Arthritis
+70,M,Present,Absent,Hypertension,Positive,Heart disease
+12,M,Absent,Absent,Hypertension,Negative,High cholesterol
+69,M,Present,Absent,Diabetes,Negative,Heart disease
+7,F,Absent,Present,Hypertension,Positive,Arthritis
+30,M,Present,Absent,Hypertension,Negative,Heart disease
+86,M,Absent,Absent,Diabetes,Negative,Heart disease
+26,F,Absent,Present,Hypertension,Positive,High cholesterol
+96,M,Absent,Absent,Hypertension,Negative,Heart disease
+57,M,Present,Present,Diabetes,Negative,Heart disease
+38,F,Absent,Present,Asthma,Positive,High cholesterol
+27,F,Absent,Present,Asthma,Negative,High cholesterol
+43,F,Present,Absent,Asthma,Positive,Arthritis
+31,M,Absent,Present,Asthma,Negative,Heart disease
+98,F,Absent,Absent,Diabetes,Positive,Arthritis
+44,M,Present,Present,Hypertension,Positive,High cholesterol
+77,F,Absent,Present,Asthma,Negative,Arthritis
+95,M,Present,Absent,Asthma,Negative,High cholesterol
+87,M,Absent,Present,Hypertension,Positive,High cholesterol
+53,F,Absent,Absent,Hypertension,Positive,Heart disease
+32,M,Present,Present,Asthma,Positive,Arthritis
+78,M,Absent,Present,Hypertension,Positive,Heart disease
+54,M,Absent,Present,Diabetes,Positive,Arthritis
+89,F,Present,Absent,Hypertension,Positive,High cholesterol
+75,M,Absent,Present,Hypertension,Positive,Heart disease
+74,M,Present,Present,Diabetes,Positive,Heart disease
+71,F,Present,Present,Hypertension,Negative,Arthritis
+42,M,Absent,Absent,Asthma,Positive,Heart disease
+31,F,Present,Absent,Asthma,Positive,Heart disease
+57,F,Absent,Present,Hypertension,Negative,Arthritis
+98,M,Absent,Present,Asthma,Negative,Arthritis
+3,F,Present,Absent,Hypertension,Negative,High cholesterol
+61,M,Present,Absent,Diabetes,Positive,Heart disease
+21,M,Present,Present,Hypertension,Positive,Heart disease
+33,M,Absent,Absent,Hypertension,Positive,Heart disease
+54,M,Present,Present,Asthma,Negative,High cholesterol
+81,M,Absent,Absent,Diabetes,Negative,Arthritis
+4,M,Present,Absent,Asthma,Negative,Heart disease
+79,F,Present,Present,Asthma,Negative,High cholesterol
+63,F,Absent,Present,Asthma,Positive,Arthritis
+10,M,Present,Present,Hypertension,Positive,Heart disease
+81,M,Present,Present,Hypertension,Positive,Arthritis
+32,F,Present,Present,Hypertension,Negative,Arthritis
+50,M,Present,Absent,Diabetes,Positive,High cholesterol
+97,F,Absent,Present,Diabetes,Negative,Heart disease
+88,M,Present,Absent,Hypertension,Positive,Arthritis
+10,F,Absent,Absent,Asthma,Negative,High cholesterol
+41,M,Present,Present,Diabetes,Positive,Heart disease
+62,M,Absent,Absent,Asthma,Negative,Arthritis
+37,M,Absent,Present,Asthma,Positive,High cholesterol
+52,F,Absent,Present,Asthma,Positive,High cholesterol
+3,F,Present,Absent,Hypertension,Negative,Arthritis
+98,M,Present,Absent,Asthma,Positive,Heart disease
+40,M,Present,Absent,Hypertension,Positive,Arthritis
+63,M,Present,Present,Hypertension,Negative,High cholesterol
+24,F,Present,Absent,Asthma,Positive,Heart disease
+33,F,Present,Present,Hypertension,Negative,Heart disease
+27,F,Present,Absent,Asthma,Negative,High cholesterol
+66,M,Present,Present,Asthma,Negative,High cholesterol
+79,M,Present,Absent,Diabetes,Negative,Arthritis
+88,M,Present,Present,Asthma,Positive,Heart disease
+20,F,Present,Present,Hypertension,Negative,Heart disease
+12,M,Absent,Absent,Asthma,Negative,High cholesterol
+16,F,Present,Absent,Hypertension,Positive,Arthritis
+3,F,Absent,Absent,Diabetes,Positive,Heart disease
+34,M,Absent,Absent,Hypertension,Negative,High cholesterol
+49,F,Present,Absent,Diabetes,Positive,High cholesterol
+19,F,Present,Absent,Diabetes,Positive,High cholesterol
+61,M,Present,Present,Asthma,Positive,Heart disease
+18,F,Present,Absent,Asthma,Negative,Arthritis
+27,F,Absent,Absent,Hypertension,Positive,Heart disease
+5,M,Present,Absent,Hypertension,Negative,Arthritis
+99,M,Present,Absent,Diabetes,Positive,Heart disease
+97,F,Absent,Absent,Hypertension,Negative,Heart disease
+6,M,Present,Present,Diabetes,Negative,Arthritis
+26,F,Absent,Absent,Hypertension,Positive,Arthritis
+37,M,Present,Absent,Hypertension,Positive,High cholesterol
+50,F,Absent,Present,Diabetes,Positive,High cholesterol
+25,M,Absent,Present,Hypertension,Negative,Arthritis
+40,M,Present,Absent,Hypertension,Positive,Arthritis
+86,M,Absent,Present,Asthma,Positive,Heart disease
+6,M,Absent,Present,Diabetes,Negative,Heart disease
+46,F,Present,Present,Hypertension,Negative,Heart disease
+30,F,Absent,Absent,Diabetes,Negative,High cholesterol
+75,F,Present,Present,Hypertension,Negative,Arthritis
+36,F,Absent,Present,Diabetes,Positive,Arthritis
+4,F,Present,Present,Asthma,Negative,Arthritis
+18,M,Present,Present,Hypertension,Negative,Heart disease
+82,F,Present,Present,Asthma,Positive,High cholesterol
+62,F,Absent,Present,Hypertension,Positive,Heart disease
+16,F,Present,Present,Hypertension,Positive,Arthritis
+46,M,Absent,Absent,Diabetes,Negative,High cholesterol
+71,F,Present,Absent,Asthma,Negative,Heart disease
+72,F,Present,Absent,Asthma,Positive,Heart disease
+20,M,Present,Present,Diabetes,Positive,Heart disease
+23,M,Present,Absent,Asthma,Negative,Heart disease
+28,F,Absent,Present,Asthma,Negative,Heart disease
+43,M,Present,Present,Diabetes,Negative,Heart disease
+10,M,Absent,Present,Diabetes,Positive,Arthritis
+23,F,Absent,Present,Diabetes,Negative,High cholesterol
+72,F,Absent,Present,Asthma,Negative,High cholesterol
+77,M,Present,Present,Hypertension,Negative,High cholesterol
+67,F,Absent,Absent,Asthma,Negative,High cholesterol
+75,F,Absent,Present,Diabetes,Negative,Arthritis
+94,F,Present,Present,Diabetes,Negative,Arthritis
+50,M,Present,Absent,Diabetes,Positive,Arthritis
+41,F,Absent,Present,Asthma,Negative,High cholesterol
+95,F,Absent,Absent,Asthma,Negative,High cholesterol
+1,F,Absent,Absent,Diabetes,Positive,High cholesterol
+75,M,Absent,Present,Diabetes,Positive,Heart disease
+85,F,Present,Absent,Diabetes,Positive,Arthritis
+26,M,Present,Absent,Asthma,Positive,High cholesterol
+97,F,Absent,Absent,Hypertension,Negative,High cholesterol
+43,M,Absent,Present,Hypertension,Positive,High cholesterol
+18,F,Present,Absent,Hypertension,Negative,Heart disease
+56,M,Present,Present,Asthma,Positive,Heart disease
+15,F,Absent,Absent,Asthma,Negative,Heart disease
+1,F,Present,Present,Asthma,Positive,High cholesterol
+69,M,Absent,Absent,Hypertension,Positive,Heart disease
+37,M,Present,Absent,Asthma,Negative,Arthritis
+42,M,Absent,Present,Diabetes,Positive,Arthritis
+41,M,Absent,Present,Hypertension,Negative,Arthritis
+78,F,Present,Absent,Asthma,Positive,High cholesterol
+39,F,Present,Absent,Diabetes,Positive,High cholesterol
+20,M,Absent,Absent,Asthma,Negative,High cholesterol
+78,F,Absent,Present,Diabetes,Negative,Arthritis
+90,F,Present,Absent,Diabetes,Negative,Heart disease
+27,M,Present,Absent,Diabetes,Positive,High cholesterol
+71,F,Absent,Absent,Hypertension,Positive,Heart disease
+33,F,Absent,Absent,Asthma,Negative,Heart disease
+86,M,Present,Absent,Hypertension,Positive,High cholesterol
+44,F,Present,Absent,Hypertension,Positive,Heart disease
+77,F,Absent,Present,Asthma,Negative,Heart disease
+80,F,Absent,Present,Asthma,Positive,Heart disease
+16,M,Present,Present,Asthma,Negative,High cholesterol
+77,F,Present,Absent,Hypertension,Negative,Heart disease
+16,M,Present,Absent,Hypertension,Negative,High cholesterol
+21,M,Present,Absent,Asthma,Negative,Heart disease
+40,M,Absent,Absent,Asthma,Positive,Heart disease
+4,M,Present,Present,Asthma,Positive,High cholesterol
+95,M,Absent,Present,Hypertension,Negative,High cholesterol
+46,M,Absent,Present,Hypertension,Negative,Heart disease
+81,F,Absent,Absent,Asthma,Positive,Heart disease
+74,F,Present,Absent,Hypertension,Positive,Arthritis
+39,F,Present,Present,Asthma,Positive,Heart disease
+69,M,Present,Present,Diabetes,Negative,Arthritis
+6,F,Present,Present,Asthma,Negative,Heart disease
+17,M,Present,Present,Diabetes,Negative,Arthritis
+60,F,Absent,Absent,Diabetes,Positive,High cholesterol
+51,F,Absent,Present,Diabetes,Negative,Heart disease
+34,F,Absent,Present,Hypertension,Positive,Heart disease
+55,F,Present,Present,Asthma,Negative,Heart disease
+91,F,Present,Absent,Asthma,Negative,Arthritis
+90,M,Present,Present,Diabetes,Negative,Arthritis
+69,M,Present,Present,Asthma,Negative,High cholesterol
+84,M,Absent,Absent,Diabetes,Negative,Arthritis
+52,F,Present,Present,Hypertension,Positive,High cholesterol
+4,F,Absent,Absent,Asthma,Negative,High cholesterol
+38,M,Present,Present,Diabetes,Negative,High cholesterol
+65,M,Present,Present,Hypertension,Positive,High cholesterol
+37,F,Present,Present,Hypertension,Positive,Arthritis
+59,M,Absent,Absent,Diabetes,Negative,Arthritis
+51,M,Absent,Present,Asthma,Negative,Arthritis
+33,F,Absent,Present,Hypertension,Negative,Arthritis
+11,F,Absent,Absent,Asthma,Positive,High cholesterol
+15,F,Present,Present,Hypertension,Positive,Arthritis
+57,M,Present,Absent,Hypertension,Negative,Heart disease
+45,F,Absent,Absent,Hypertension,Positive,Heart disease
+66,M,Absent,Absent,Asthma,Negative,Arthritis
+15,M,Present,Present,Asthma,Positive,High cholesterol
+24,F,Absent,Present,Hypertension,Negative,Arthritis
+66,M,Present,Absent,Asthma,Negative,Arthritis
+64,M,Absent,Absent,Asthma,Positive,High cholesterol
+16,M,Present,Absent,Asthma,Positive,Arthritis
+87,F,Present,Absent,Hypertension,Negative,High cholesterol
+43,F,Absent,Present,Asthma,Negative,High cholesterol
+23,M,Present,Absent,Hypertension,Positive,Arthritis
+7,M,Absent,Absent,Asthma,Positive,Arthritis
+30,M,Absent,Present,Hypertension,Negative,Arthritis
+26,M,Absent,Absent,Diabetes,Negative,Arthritis
+57,F,Absent,Present,Hypertension,Negative,Heart disease
+24,F,Present,Absent,Diabetes,Positive,Arthritis
+70,F,Absent,Absent,Asthma,Negative,Heart disease
+47,M,Present,Present,Hypertension,Positive,High cholesterol
+70,F,Present,Present,Diabetes,Positive,Arthritis
+17,M,Absent,Present,Hypertension,Positive,Heart disease
+5,M,Present,Present,Diabetes,Negative,Arthritis
+84,F,Present,Present,Diabetes,Negative,Heart disease
+67,F,Present,Present,Asthma,Positive,High cholesterol
+14,F,Absent,Present,Diabetes,Negative,Heart disease
+11,F,Absent,Absent,Hypertension,Positive,High cholesterol
+64,M,Present,Present,Diabetes,Negative,Arthritis
+5,F,Absent,Absent,Asthma,Positive,Arthritis
+42,F,Present,Absent,Asthma,Negative,Arthritis
+67,M,Absent,Absent,Hypertension,Positive,High cholesterol
+61,M,Absent,Present,Hypertension,Negative,Arthritis
+8,F,Present,Present,Diabetes,Positive,Heart disease
+39,M,Present,Absent,Asthma,Negative,Heart disease
+34,M,Absent,Present,Hypertension,Positive,Heart disease
+37,M,Present,Present,Hypertension,Positive,High cholesterol
+11,F,Absent,Present,Diabetes,Negative,Heart disease
+22,M,Present,Present,Hypertension,Negative,High cholesterol
+72,M,Absent,Absent,Asthma,Negative,High cholesterol
+69,M,Absent,Present,Diabetes,Positive,Heart disease
+44,M,Absent,Present,Hypertension,Positive,Arthritis
+36,M,Absent,Absent,Asthma,Negative,Heart disease
+17,M,Absent,Absent,Asthma,Negative,Arthritis
+5,M,Present,Present,Asthma,Negative,High cholesterol
+78,M,Present,Present,Asthma,Positive,High cholesterol
+96,M,Present,Present,Hypertension,Positive,Arthritis
+43,F,Absent,Absent,Diabetes,Negative,Heart disease
+23,M,Absent,Present,Hypertension,Negative,High cholesterol
+88,F,Absent,Present,Asthma,Negative,Arthritis
+58,M,Absent,Absent,Diabetes,Negative,Arthritis
+78,F,Absent,Absent,Hypertension,Negative,Heart disease
+34,M,Present,Absent,Diabetes,Positive,Heart disease
+33,M,Absent,Present,Hypertension,Negative,Heart disease
+19,F,Present,Present,Asthma,Positive,High cholesterol
+58,F,Present,Present,Asthma,Negative,Arthritis
+5,M,Present,Absent,Asthma,Positive,Heart disease
+97,M,Absent,Present,Diabetes,Negative,High cholesterol
+4,M,Absent,Absent,Diabetes,Positive,Heart disease
+21,M,Absent,Absent,Asthma,Positive,High cholesterol
+31,M,Absent,Present,Diabetes,Positive,High cholesterol
+36,M,Present,Absent,Diabetes,Positive,Heart disease
+90,F,Absent,Present,Hypertension,Positive,Arthritis
+67,F,Present,Present,Hypertension,Negative,High cholesterol
+7,F,Present,Absent,Diabetes,Positive,Arthritis
+45,F,Absent,Present,Diabetes,Negative,Heart disease
+34,M,Absent,Absent,Asthma,Positive,High cholesterol
+1,F,Present,Present,Asthma,Positive,High cholesterol
+6,M,Absent,Absent,Diabetes,Positive,High cholesterol
+91,M,Present,Absent,Diabetes,Negative,Heart disease
+87,F,Present,Absent,Diabetes,Positive,Heart disease
+60,F,Absent,Present,Diabetes,Positive,Arthritis
+35,F,Absent,Present,Asthma,Negative,High cholesterol
+36,M,Present,Present,Asthma,Positive,Heart disease
+38,M,Absent,Present,Asthma,Negative,Arthritis
+2,F,Present,Present,Asthma,Negative,Heart disease
+54,M,Present,Absent,Diabetes,Positive,Arthritis
+80,F,Present,Present,Asthma,Positive,Arthritis
+59,M,Absent,Present,Diabetes,Positive,Arthritis
+44,M,Absent,Present,Hypertension,Positive,Heart disease
+3,F,Absent,Present,Diabetes,Negative,Arthritis
+90,F,Absent,Present,Hypertension,Positive,High cholesterol
+82,M,Absent,Present,Hypertension,Positive,Heart disease
+47,F,Absent,Absent,Diabetes,Positive,High cholesterol
+16,M,Absent,Absent,Diabetes,Positive,Arthritis
+36,F,Absent,Present,Hypertension,Negative,Arthritis
+27,F,Present,Absent,Asthma,Positive,Heart disease
+63,F,Present,Present,Hypertension,Positive,High cholesterol
+79,F,Absent,Present,Asthma,Positive,Arthritis
+71,F,Absent,Present,Hypertension,Positive,Arthritis
+75,F,Absent,Present,Asthma,Negative,Arthritis
+61,M,Absent,Absent,Asthma,Positive,Arthritis
+61,F,Present,Present,Hypertension,Negative,High cholesterol
+38,F,Absent,Absent,Asthma,Negative,High cholesterol
+38,M,Present,Present,Hypertension,Negative,High cholesterol
+23,M,Absent,Absent,Hypertension,Positive,Arthritis
+69,F,Present,Present,Hypertension,Positive,High cholesterol
+74,F,Present,Present,Diabetes,Positive,Arthritis
+10,F,Present,Present,Hypertension,Positive,Arthritis
+79,M,Absent,Absent,Hypertension,Negative,High cholesterol
+64,F,Absent,Absent,Asthma,Positive,Heart disease
+66,F,Present,Present,Hypertension,Negative,Heart disease
+46,F,Present,Absent,Hypertension,Positive,Heart disease
+49,M,Absent,Present,Hypertension,Negative,Heart disease
+40,M,Present,Present,Diabetes,Negative,High cholesterol
+60,F,Present,Present,Asthma,Negative,Heart disease
+27,F,Absent,Present,Diabetes,Negative,Heart disease
+17,F,Absent,Present,Asthma,Positive,High cholesterol
+34,M,Present,Present,Diabetes,Positive,Arthritis
+36,M,Present,Absent,Diabetes,Positive,Heart disease
+18,M,Absent,Present,Asthma,Positive,High cholesterol
+79,M,Present,Present,Asthma,Negative,Heart disease
+79,F,Present,Absent,Diabetes,Positive,Arthritis
+41,F,Present,Absent,Asthma,Positive,Heart disease
+70,M,Present,Absent,Diabetes,Positive,Arthritis
+37,F,Absent,Present,Diabetes,Negative,Arthritis
+52,M,Absent,Absent,Asthma,Negative,Arthritis
+5,M,Absent,Present,Diabetes,Positive,Heart disease
+76,M,Present,Present,Hypertension,Negative,Heart disease
+33,M,Absent,Absent,Diabetes,Positive,Arthritis
+55,M,Present,Absent,Diabetes,Negative,High cholesterol
+16,F,Present,Present,Asthma,Positive,Arthritis
+84,F,Present,Present,Asthma,Positive,Arthritis
+3,M,Absent,Present,Asthma,Positive,High cholesterol
+76,M,Absent,Present,Asthma,Negative,Arthritis
+77,F,Absent,Absent,Asthma,Positive,Arthritis
+7,M,Present,Absent,Asthma,Negative,Heart disease
+95,M,Present,Present,Asthma,Positive,Arthritis
+55,F,Absent,Absent,Asthma,Negative,Heart disease
+74,M,Present,Absent,Diabetes,Negative,Heart disease
+83,F,Present,Present,Hypertension,Negative,High cholesterol
+24,F,Absent,Present,Hypertension,Negative,High cholesterol
+35,M,Absent,Present,Asthma,Negative,Arthritis
+16,M,Absent,Absent,Diabetes,Negative,Heart disease
+12,M,Present,Present,Diabetes,Positive,High cholesterol
+22,F,Absent,Present,Asthma,Positive,Arthritis
+28,F,Present,Absent,Asthma,Negative,Arthritis
+49,F,Absent,Present,Diabetes,Positive,High cholesterol
+13,M,Present,Absent,Diabetes,Negative,Heart disease
+73,F,Present,Absent,Hypertension,Negative,Arthritis
+37,M,Absent,Absent,Asthma,Positive,Heart disease
+10,F,Absent,Present,Diabetes,Negative,High cholesterol
+77,M,Absent,Absent,Hypertension,Positive,High cholesterol
+29,M,Absent,Absent,Diabetes,Negative,Heart disease
+61,F,Present,Absent,Hypertension,Positive,Heart disease
+81,F,Absent,Present,Diabetes,Positive,High cholesterol
+16,F,Absent,Present,Hypertension,Positive,Arthritis
+24,F,Absent,Absent,Diabetes,Negative,High cholesterol
+17,F,Present,Present,Hypertension,Negative,Arthritis
+82,M,Absent,Present,Hypertension,Negative,Heart disease
+51,M,Absent,Present,Asthma,Positive,High cholesterol
+6,F,Present,Present,Diabetes,Negative,Heart disease
+35,F,Absent,Present,Hypertension,Positive,Heart disease
+74,F,Present,Present,Hypertension,Negative,Arthritis
+1,F,Present,Present,Asthma,Negative,Arthritis
+53,M,Absent,Present,Diabetes,Positive,High cholesterol
+14,M,Absent,Present,Hypertension,Positive,Arthritis
+48,M,Present,Present,Asthma,Negative,Heart disease
+73,M,Present,Present,Diabetes,Negative,Arthritis
+55,F,Present,Absent,Hypertension,Positive,High cholesterol
+22,F,Present,Absent,Hypertension,Negative,High cholesterol
+82,M,Absent,Absent,Hypertension,Negative,High cholesterol
+63,M,Absent,Absent,Asthma,Positive,High cholesterol
+61,M,Present,Present,Diabetes,Negative,Arthritis
+38,F,Absent,Present,Hypertension,Positive,Heart disease
+84,M,Absent,Present,Asthma,Negative,Arthritis
+20,M,Absent,Absent,Asthma,Positive,High cholesterol
+4,M,Absent,Present,Hypertension,Negative,High cholesterol
+25,M,Absent,Absent,Diabetes,Positive,Heart disease
+51,F,Absent,Present,Hypertension,Positive,High cholesterol
+17,F,Present,Absent,Asthma,Positive,High cholesterol
+37,F,Absent,Absent,Hypertension,Negative,High cholesterol
+19,F,Absent,Present,Asthma,Positive,Heart disease
+18,F,Present,Absent,Diabetes,Positive,High cholesterol
+76,F,Present,Present,Diabetes,Negative,High cholesterol
+89,F,Absent,Absent,Asthma,Negative,Arthritis
+62,M,Present,Present,Hypertension,Negative,Arthritis
+79,M,Present,Absent,Hypertension,Positive,High cholesterol
+97,F,Absent,Absent,Diabetes,Negative,Heart disease
+97,M,Absent,Absent,Diabetes,Positive,High cholesterol
+38,M,Absent,Absent,Diabetes,Negative,Heart disease
+12,F,Absent,Present,Asthma,Positive,Heart disease
+18,M,Absent,Present,Asthma,Negative,Heart disease
+70,F,Absent,Present,Hypertension,Positive,Heart disease
+62,M,Absent,Absent,Diabetes,Negative,Arthritis
+64,F,Absent,Absent,Diabetes,Negative,Heart disease
+97,M,Present,Absent,Diabetes,Negative,High cholesterol
+78,F,Absent,Present,Hypertension,Negative,Arthritis
+72,F,Absent,Present,Asthma,Negative,High cholesterol
+11,M,Absent,Present,Hypertension,Negative,Heart disease
+51,M,Present,Absent,Hypertension,Positive,High cholesterol
+75,M,Present,Present,Hypertension,Positive,Heart disease
+50,M,Absent,Present,Asthma,Negative,High cholesterol
+23,M,Absent,Absent,Hypertension,Positive,Arthritis
+67,M,Absent,Present,Hypertension,Positive,Arthritis
+99,F,Present,Absent,Diabetes,Positive,Arthritis
+40,M,Present,Absent,Asthma,Negative,Heart disease
+71,M,Absent,Present,Hypertension,Negative,Heart disease
+99,M,Absent,Present,Hypertension,Positive,High cholesterol
+92,F,Present,Present,Diabetes,Negative,Arthritis
+73,F,Absent,Absent,Diabetes,Negative,Heart disease
+6,F,Absent,Absent,Hypertension,Negative,High cholesterol
+5,F,Absent,Absent,Asthma,Positive,Heart disease
+83,F,Absent,Absent,Asthma,Negative,Arthritis
+40,M,Present,Absent,Diabetes,Positive,High cholesterol
+43,M,Absent,Absent,Hypertension,Negative,Arthritis
+66,M,Absent,Present,Hypertension,Negative,Arthritis
+96,M,Present,Present,Hypertension,Negative,High cholesterol
+54,F,Present,Absent,Asthma,Negative,Arthritis
+84,F,Present,Absent,Asthma,Positive,Arthritis
+58,M,Present,Absent,Hypertension,Negative,High cholesterol
+97,M,Absent,Absent,Diabetes,Positive,Arthritis
+3,F,Absent,Absent,Diabetes,Negative,Heart disease
+11,F,Absent,Absent,Asthma,Negative,High cholesterol
+46,M,Present,Absent,Asthma,Positive,Heart disease
+54,F,Absent,Present,Diabetes,Positive,Heart disease
+74,M,Present,Present,Asthma,Positive,Arthritis
+27,F,Present,Present,Diabetes,Positive,Arthritis
+15,F,Present,Present,Diabetes,Negative,Arthritis
+20,F,Absent,Absent,Diabetes,Positive,Heart disease
+2,F,Absent,Absent,Diabetes,Positive,Arthritis
+53,F,Present,Present,Asthma,Negative,High cholesterol
+3,M,Absent,Present,Asthma,Positive,High cholesterol
+40,F,Present,Absent,Hypertension,Positive,Arthritis
+3,F,Present,Absent,Diabetes,Positive,Arthritis
+71,F,Absent,Present,Diabetes,Negative,Arthritis
+3,F,Present,Present,Hypertension,Negative,Heart disease
+99,M,Absent,Absent,Asthma,Positive,Arthritis
+77,M,Absent,Absent,Diabetes,Positive,Heart disease
+5,M,Present,Present,Diabetes,Positive,Heart disease
+14,F,Absent,Present,Diabetes,Positive,Arthritis
+23,M,Present,Absent,Diabetes,Negative,Heart disease
+63,M,Absent,Absent,Hypertension,Negative,High cholesterol
+64,M,Present,Present,Hypertension,Positive,Arthritis
+67,F,Absent,Absent,Hypertension,Positive,Heart disease
+27,F,Absent,Present,Diabetes,Positive,Arthritis
+7,M,Absent,Present,Hypertension,Positive,High cholesterol
+52,M,Present,Present,Asthma,Positive,Heart disease
+50,F,Absent,Absent,Hypertension,Negative,High cholesterol
+75,M,Present,Absent,Hypertension,Negative,High cholesterol
+58,M,Present,Absent,Hypertension,Positive,High cholesterol
+97,F,Present,Present,Asthma,Positive,High cholesterol
+78,F,Absent,Present,Hypertension,Negative,Arthritis
+33,M,Present,Absent,Asthma,Negative,Arthritis
+6,M,Absent,Absent,Diabetes,Positive,Heart disease
+62,M,Present,Present,Asthma,Positive,Heart disease
+72,M,Present,Absent,Hypertension,Positive,Arthritis
+50,M,Present,Present,Hypertension,Negative,Arthritis
+92,F,Absent,Absent,Diabetes,Negative,Heart disease
+11,F,Absent,Absent,Asthma,Positive,High cholesterol
+35,M,Absent,Present,Asthma,Negative,Heart disease
+90,M,Present,Absent,Asthma,Positive,Arthritis
+28,F,Present,Present,Asthma,Negative,Heart disease
+57,M,Present,Present,Diabetes,Negative,Heart disease
+16,M,Absent,Absent,Asthma,Negative,High cholesterol
+87,F,Present,Present,Asthma,Negative,Arthritis
+42,M,Present,Absent,Hypertension,Positive,High cholesterol
+38,M,Absent,Present,Diabetes,Negative,High cholesterol
+53,M,Present,Absent,Hypertension,Negative,High cholesterol
+26,M,Absent,Absent,Diabetes,Negative,Arthritis
+15,F,Present,Absent,Diabetes,Positive,High cholesterol
+26,M,Present,Absent,Diabetes,Positive,Arthritis
+21,F,Present,Present,Asthma,Positive,High cholesterol
+77,M,Present,Absent,Asthma,Negative,Heart disease
+20,F,Present,Absent,Asthma,Negative,High cholesterol
+77,F,Absent,Absent,Diabetes,Negative,Arthritis
+90,M,Present,Absent,Asthma,Negative,Heart disease
+87,F,Absent,Absent,Diabetes,Negative,High cholesterol
+66,M,Present,Absent,Diabetes,Negative,High cholesterol
+58,F,Present,Absent,Hypertension,Negative,High cholesterol
+39,M,Present,Absent,Hypertension,Positive,Arthritis
+60,F,Absent,Present,Diabetes,Positive,High cholesterol
+32,M,Absent,Absent,Diabetes,Positive,Arthritis
+11,M,Present,Present,Diabetes,Positive,Arthritis
+48,F,Absent,Absent,Diabetes,Negative,Heart disease
+35,F,Absent,Absent,Asthma,Negative,High cholesterol
+32,M,Present,Absent,Diabetes,Negative,High cholesterol
+10,M,Absent,Present,Asthma,Positive,Arthritis
+42,M,Absent,Absent,Diabetes,Positive,High cholesterol
+71,F,Present,Present,Asthma,Positive,High cholesterol
+90,F,Absent,Absent,Diabetes,Positive,High cholesterol
+7,M,Absent,Absent,Hypertension,Negative,Heart disease
+44,M,Present,Present,Hypertension,Negative,Arthritis
+9,M,Absent,Absent,Hypertension,Negative,Arthritis
+77,M,Present,Absent,Hypertension,Positive,Heart disease
+79,F,Absent,Absent,Hypertension,Positive,High cholesterol
+58,M,Absent,Absent,Asthma,Positive,Arthritis
+88,F,Present,Present,Diabetes,Negative,High cholesterol
+25,M,Absent,Present,Asthma,Negative,Heart disease
+74,F,Present,Present,Asthma,Negative,High cholesterol
+12,F,Present,Present,Hypertension,Negative,Arthritis
+57,F,Absent,Absent,Asthma,Positive,Heart disease
+3,F,Present,Absent,Asthma,Negative,Arthritis
+21,M,Absent,Present,Asthma,Positive,High cholesterol
+32,F,Present,Absent,Diabetes,Negative,Arthritis
+28,F,Present,Present,Diabetes,Positive,High cholesterol
+52,F,Absent,Absent,Asthma,Positive,Arthritis
+45,M,Absent,Present,Hypertension,Positive,Heart disease
+19,F,Present,Absent,Asthma,Negative,Arthritis
+20,M,Present,Absent,Hypertension,Negative,High cholesterol
+46,F,Absent,Present,Hypertension,Positive,Arthritis
+71,F,Absent,Absent,Diabetes,Positive,Heart disease
+24,F,Present,Present,Hypertension,Positive,Heart disease
+3,M,Present,Present,Asthma,Negative,Arthritis
+60,F,Absent,Absent,Asthma,Positive,Heart disease
+43,M,Absent,Present,Hypertension,Positive,High cholesterol
+6,M,Present,Absent,Hypertension,Positive,Arthritis
+2,F,Present,Present,Diabetes,Positive,Heart disease
+77,F,Absent,Present,Hypertension,Negative,High cholesterol
+65,M,Absent,Present,Asthma,Negative,Heart disease
+1,M,Present,Absent,Asthma,Negative,Heart disease
+11,F,Present,Absent,Asthma,Positive,High cholesterol
+91,M,Present,Absent,Diabetes,Negative,Arthritis
+55,F,Absent,Present,Asthma,Positive,Arthritis
+2,F,Absent,Present,Diabetes,Positive,Arthritis
+77,M,Present,Absent,Diabetes,Positive,Arthritis
+27,F,Absent,Present,Asthma,Positive,Arthritis
+17,F,Present,Absent,Diabetes,Positive,High cholesterol
+2,M,Present,Present,Diabetes,Positive,Heart disease
+43,F,Present,Absent,Hypertension,Negative,Heart disease
+28,M,Absent,Present,Asthma,Negative,High cholesterol
+84,F,Present,Absent,Hypertension,Positive,Arthritis
+8,F,Absent,Absent,Hypertension,Negative,Heart disease
+12,F,Absent,Absent,Asthma,Positive,High cholesterol
+3,F,Present,Present,Diabetes,Positive,Heart disease
+52,F,Present,Present,Diabetes,Positive,High cholesterol
+33,F,Absent,Absent,Asthma,Negative,High cholesterol
+77,M,Absent,Absent,Asthma,Positive,Arthritis
+74,F,Absent,Absent,Asthma,Negative,Heart disease
+77,F,Absent,Absent,Hypertension,Negative,Arthritis
+49,F,Present,Present,Hypertension,Negative,Heart disease
+64,F,Present,Absent,Hypertension,Negative,Arthritis
+34,F,Absent,Present,Diabetes,Positive,Heart disease
+21,F,Absent,Absent,Asthma,Positive,Heart disease
+32,M,Absent,Absent,Asthma,Positive,High cholesterol
+92,F,Present,Absent,Diabetes,Negative,High cholesterol
+48,M,Absent,Absent,Hypertension,Negative,Heart disease
+17,F,Present,Present,Diabetes,Negative,Arthritis
+95,F,Absent,Absent,Diabetes,Positive,Heart disease
+66,F,Absent,Absent,Asthma,Positive,Arthritis
+62,M,Absent,Absent,Hypertension,Positive,High cholesterol
+58,M,Absent,Present,Hypertension,Positive,Arthritis
+2,F,Present,Absent,Diabetes,Negative,Heart disease
+2,M,Present,Present,Asthma,Negative,High cholesterol
+76,F,Present,Present,Hypertension,Positive,Arthritis
+20,M,Absent,Present,Diabetes,Negative,Heart disease
+73,M,Present,Absent,Hypertension,Negative,Arthritis
+92,F,Present,Present,Diabetes,Negative,Heart disease
+84,F,Absent,Absent,Asthma,Positive,High cholesterol
+98,F,Present,Absent,Diabetes,Negative,Arthritis
+44,F,Absent,Present,Asthma,Positive,Arthritis
+53,F,Absent,Present,Asthma,Positive,Arthritis
+63,F,Absent,Present,Diabetes,Positive,Heart disease
+24,F,Present,Present,Diabetes,Negative,High cholesterol
+99,M,Absent,Absent,Asthma,Positive,Arthritis
+93,M,Absent,Present,Asthma,Positive,Arthritis
+59,M,Absent,Absent,Asthma,Positive,High cholesterol
+82,M,Absent,Present,Hypertension,Negative,Heart disease
+18,F,Absent,Present,Diabetes,Negative,Arthritis
+37,F,Present,Present,Hypertension,Negative,Heart disease
+97,F,Absent,Absent,Asthma,Positive,High cholesterol
+39,F,Present,Absent,Hypertension,Negative,Heart disease
+67,F,Present,Absent,Asthma,Negative,Heart disease
+90,F,Absent,Absent,Diabetes,Positive,Heart disease
+98,F,Absent,Present,Hypertension,Positive,High cholesterol
+10,M,Present,Present,Hypertension,Positive,High cholesterol
+89,M,Absent,Absent,Asthma,Positive,High cholesterol
+42,M,Present,Present,Diabetes,Negative,Heart disease
+88,F,Absent,Present,Diabetes,Negative,High cholesterol
+42,M,Present,Absent,Asthma,Positive,Heart disease
+15,M,Absent,Present,Hypertension,Negative,Arthritis
+38,M,Present,Absent,Asthma,Negative,High cholesterol
+82,F,Present,Present,Asthma,Negative,Arthritis
+53,M,Present,Present,Hypertension,Negative,High cholesterol
+78,M,Present,Present,Diabetes,Negative,Arthritis
+76,F,Absent,Absent,Diabetes,Positive,High cholesterol
+69,F,Absent,Absent,Hypertension,Negative,High cholesterol
+19,F,Present,Absent,Hypertension,Positive,High cholesterol
+53,M,Absent,Present,Diabetes,Negative,Heart disease
+81,M,Present,Present,Asthma,Negative,Arthritis
+63,M,Present,Absent,Hypertension,Negative,High cholesterol
+98,M,Present,Absent,Diabetes,Positive,Heart disease
+25,F,Present,Present,Asthma,Negative,Arthritis
+50,M,Absent,Absent,Diabetes,Positive,High cholesterol
+22,M,Present,Present,Diabetes,Negative,Heart disease
+56,F,Absent,Present,Asthma,Positive,Heart disease
+60,M,Present,Present,Asthma,Negative,Arthritis
+71,M,Present,Absent,Hypertension,Positive,High cholesterol
+86,F,Absent,Absent,Hypertension,Negative,Arthritis
+85,M,Present,Present,Diabetes,Positive,Heart disease
+61,M,Absent,Absent,Hypertension,Negative,Heart disease
+55,M,Absent,Absent,Hypertension,Negative,Arthritis
+19,F,Present,Present,Asthma,Positive,High cholesterol
+12,F,Present,Absent,Diabetes,Positive,High cholesterol
+10,F,Absent,Absent,Diabetes,Positive,Heart disease
+78,F,Absent,Absent,Asthma,Negative,Heart disease
+40,M,Absent,Present,Diabetes,Positive,High cholesterol
+35,F,Absent,Present,Asthma,Positive,Arthritis
+90,M,Absent,Absent,Hypertension,Negative,High cholesterol
+59,M,Present,Absent,Asthma,Negative,Arthritis
+66,F,Absent,Present,Diabetes,Negative,Arthritis
+65,F,Absent,Absent,Hypertension,Positive,High cholesterol
+83,M,Absent,Present,Hypertension,Negative,High cholesterol
+13,M,Absent,Absent,Asthma,Positive,Arthritis
+37,F,Absent,Present,Hypertension,Positive,Arthritis
+99,M,Present,Present,Asthma,Negative,Heart disease
+16,F,Present,Present,Asthma,Positive,High cholesterol
+57,F,Present,Present,Hypertension,Negative,High cholesterol
+19,M,Absent,Present,Diabetes,Positive,Arthritis
+73,M,Present,Present,Asthma,Positive,Heart disease
+54,F,Present,Absent,Hypertension,Negative,Heart disease
+36,F,Absent,Absent,Hypertension,Positive,High cholesterol
+4,F,Present,Present,Hypertension,Positive,Arthritis
+18,M,Absent,Absent,Asthma,Negative,Heart disease
+57,F,Absent,Present,Asthma,Negative,Heart disease
+72,F,Present,Absent,Hypertension,Positive,High cholesterol
+20,F,Absent,Present,Diabetes,Negative,High cholesterol
+86,F,Present,Present,Diabetes,Positive,High cholesterol
+72,M,Present,Absent,Hypertension,Positive,Arthritis
+11,M,Present,Present,Asthma,Negative,Heart disease
+17,M,Absent,Absent,Hypertension,Positive,High cholesterol
+35,M,Present,Absent,Asthma,Negative,Heart disease
+71,F,Absent,Absent,Asthma,Positive,High cholesterol
+38,M,Absent,Present,Asthma,Negative,Heart disease
+44,M,Absent,Present,Hypertension,Positive,High cholesterol
+18,F,Present,Absent,Diabetes,Negative,Arthritis
+98,F,Absent,Absent,Hypertension,Positive,High cholesterol
+24,M,Absent,Present,Hypertension,Negative,High cholesterol
+31,F,Absent,Present,Diabetes,Positive,High cholesterol
+70,F,Absent,Present,Asthma,Positive,Arthritis
+19,M,Present,Absent,Hypertension,Negative,Arthritis
+87,F,Present,Present,Hypertension,Negative,Arthritis
+61,F,Absent,Absent,Diabetes,Positive,Arthritis
+57,F,Present,Absent,Hypertension,Positive,Arthritis
+23,M,Present,Absent,Asthma,Negative,High cholesterol
+82,M,Absent,Absent,Diabetes,Positive,High cholesterol
+6,F,Present,Present,Diabetes,Positive,High cholesterol
+99,F,Present,Present,Asthma,Positive,Arthritis
+55,F,Present,Present,Hypertension,Negative,Arthritis
+13,M,Present,Present,Hypertension,Positive,Arthritis
+5,M,Absent,Present,Hypertension,Positive,Arthritis
+20,M,Present,Absent,Asthma,Positive,Heart disease
+40,F,Absent,Present,Asthma,Positive,Arthritis
+34,F,Present,Present,Asthma,Positive,Arthritis
+86,F,Present,Absent,Asthma,Negative,Heart disease
+58,M,Present,Present,Asthma,Positive,High cholesterol
+76,M,Present,Present,Hypertension,Positive,High cholesterol
+22,M,Present,Present,Asthma,Negative,Heart disease
+53,F,Absent,Present,Diabetes,Positive,High cholesterol
+94,F,Present,Present,Hypertension,Negative,Arthritis
+69,M,Present,Present,Diabetes,Negative,High cholesterol
+5,F,Absent,Present,Asthma,Positive,Heart disease
+79,M,Absent,Present,Hypertension,Negative,Arthritis
+48,M,Absent,Absent,Diabetes,Positive,High cholesterol
+12,M,Present,Absent,Asthma,Positive,High cholesterol
+47,M,Absent,Present,Asthma,Positive,High cholesterol
+9,F,Absent,Present,Hypertension,Negative,Heart disease
+73,M,Absent,Present,Hypertension,Negative,Heart disease
+95,F,Absent,Absent,Asthma,Positive,Arthritis
+63,M,Absent,Absent,Hypertension,Negative,High cholesterol
+67,F,Absent,Absent,Hypertension,Negative,High cholesterol
+2,M,Present,Absent,Diabetes,Negative,Arthritis
+59,M,Absent,Absent,Diabetes,Positive,High cholesterol
+77,M,Absent,Absent,Asthma,Positive,Heart disease
+24,M,Present,Present,Hypertension,Positive,Heart disease
+28,M,Present,Present,Asthma,Negative,Arthritis
+34,M,Absent,Present,Hypertension,Negative,Arthritis
+51,M,Present,Absent,Asthma,Negative,Heart disease
+49,F,Present,Absent,Diabetes,Negative,High cholesterol
+98,F,Absent,Present,Diabetes,Positive,High cholesterol
+2,M,Present,Absent,Asthma,Negative,Arthritis
+67,M,Absent,Present,Hypertension,Negative,Heart disease
+53,F,Present,Absent,Diabetes,Positive,Heart disease
+11,M,Absent,Present,Asthma,Negative,Heart disease
+82,F,Absent,Absent,Asthma,Negative,Heart disease
+21,F,Present,Absent,Asthma,Positive,High cholesterol
+35,F,Present,Absent,Asthma,Positive,High cholesterol
+53,M,Absent,Absent,Hypertension,Positive,High cholesterol
+80,M,Absent,Absent,Asthma,Positive,Arthritis
+44,M,Absent,Present,Diabetes,Negative,Arthritis
+75,F,Absent,Absent,Asthma,Positive,High cholesterol
+70,F,Absent,Present,Asthma,Negative,Arthritis
